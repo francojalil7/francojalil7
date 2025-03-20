@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Actualmente estoy realizando algunos trabajos como freelance y proyectos individuales.<br>👯 Estoy buscando colaborar en una empresa donde pueda aportar y sumar valor.<br>🤝 Me gusta trabajar en equipo y dar soporte en lo que pueda.<br>🌱 Aprendo día a día sobre nuevas tecnologías y formas de hacer las cosas, actualmente con TypeScript...<br>💬 Podés comunicarte conmigo también si necesitas ayuda o despejar algunas dudas sobre código.<br>⚡ Además me gusta cocinar y tocar la guitarra.
+🔭 Actualmente estoy trabajando como FullStack Developer con mayor orientación para lo que es el Frontend.<br>
+<br>🌱 Aprendo día a día sobre nuevas tecnologías y formas de hacer las cosas, actualmente con TypeScript...<br>💬 Podés comunicarte conmigo también si necesitas ayuda o despejar algunas dudas sobre código.<br>⚡ Además me gusta cocinar y tocar la guitarra.
 
 
 ## 🌐 Socials:
