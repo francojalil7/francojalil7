@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 Actualmente estoy trabajando como FullStack Developer con mayor orientación para lo que es el Frontend.<br>
-<br>🌱 Aprendo día a día sobre nuevas tecnologías y formas de hacer las cosas, actualmente con TypeScript...<br>💬 Podés comunicarte conmigo también si necesitas ayuda o despejar algunas dudas sobre código.<br>⚡ Además me gusta cocinar y tocar la guitarra.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francojalil/) 
